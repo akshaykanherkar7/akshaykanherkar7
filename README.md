@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="linkedin.com/in/akshay-kanherkar-0178531b1" target="_blank">
+  <a href="https://www.linkedin.com/in/akshay-kanherkar-0178531b1/" target="_blank">
     <img align="left" width="32" alt="LinkedIn" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
   </a>
     
