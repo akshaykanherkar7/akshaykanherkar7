@@ -69,7 +69,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
   <br>
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishSingh64&langs_count=10&theme=gruvbox&layout=compact" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykanherkar7&langs_count=10&theme=gruvbox&layout=compact" />
   <br>
   <i>NOTE: It's just a GitHub metric to determine which languages have the most code on GitHub.</i>
 </details>
@@ -77,13 +77,13 @@
 <details>
   <summary>:zap: Github Streak Stats</summary>
   <br>
-  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishSingh64&theme=gruvbox" />
+  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykanherkar7&theme=gruvbox" />
 </details>
 
 <details>
   <summary>:zap: Wakatime Stats</summary>
   <br>
-  <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ManishSingh64&langs_count=10&theme=gruvbox&layout=compact" />
+  <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=akshaykanherkar7&langs_count=10&theme=gruvbox&layout=compact" />
 </details>
 
 <br><br>
