@@ -7,7 +7,7 @@
 
 <div markdown="1">
   <img align="left" src="https://komarev.com/ghpvc/?username=akshaykanherkar7&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykanherkar7" />
-  <a align="left" href="https://wakatime.com/@78bbb063-87b5-43fb-8c94-ae8005ba02f6"><img src="https://wakatime.com/badge/user/78bbb063-87b5-43fb-8c94-ae8005ba02f6.svg" alt="akshaykanherkar7" /></a>
+  <a href="https://wakatime.com/@2b20e24d-1c57-4cf5-9cc3-46773ec9ca8d"><img src="https://wakatime.com/badge/user/2b20e24d-1c57-4cf5-9cc3-46773ec9ca8d.svg" alt="Total time coded since Apr 3 2022" /></a>
 </div>
 
 <br>
