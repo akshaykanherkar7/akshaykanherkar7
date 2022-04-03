@@ -1,6 +1,6 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
-<h1 align="left">Hi 👋, I'm Manish Singh</h1>
+<h1 align="left">Hi 👋, I'm Akshay Kanherkar</h1>
 <h3 align="left">A passionate developer from India</h3>
 
 <br>
