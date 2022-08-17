@@ -2,6 +2,8 @@
 
 <h1 align="left">Hi 👋, I'm Akshay Kanherkar</h1>
 <h3 align="left">A passionate developer from India</h3>
+<p align="left">I chose to take a Bachelor of Computer Application at Modern College in Pune because I enjoy coding and solving problems. My current course of study at Masai School is Full-Stack Web Development.
+My hunger to learn and ability to work with any new kind of tools and technologies makes me unique and capable of writing production-ready code using React, JavaScript, HTML, CSS, Bootstrap on the Front-end, and Node.js to build any web page applications, and a few projects got me hands-on experience with MERN Technology. Now, I am currently looking forward to a position where I can utilize my skills and grow with the growth of the company.</p>
 
 <br>
 
